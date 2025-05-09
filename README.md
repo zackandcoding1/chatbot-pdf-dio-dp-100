@@ -16,6 +16,6 @@ Os documentos utilizados como referência foram artigos acadêmicos sobre ferram
 
 ---
 
-🚀 Projeto desenvolvido como atividade prática do bootcamp **DIO DP-100**.
+Projeto desenvolvido como atividade prática do bootcamp **DIO DP-100**.
 
 ![image](https://github.com/user-attachments/assets/b9716b43-6a5c-4a61-a0fe-0d4643cc0e9c)
